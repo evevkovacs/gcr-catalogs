@@ -1,0 +1,14 @@
+subclass_name: um_sdss.UMSDSSGalaxyCatalog
+
+filename: /global/projecta/projectdirs/lsst/groups/CS/descqa/catalog/UM+SDSS_v3.0.hdf5
+
+lightcone: true
+
+version: "3.0.0"
+
+
+creators: [ 'Andrew Hearin',  'Katrin Heitmann', 'Danila Korytov', 'Eve Kovacs']
+
+description: |
+    UM+SDSS is the baseline catalog characterizing the galaxy-halo connection for LSST-DESC DC2.
+
