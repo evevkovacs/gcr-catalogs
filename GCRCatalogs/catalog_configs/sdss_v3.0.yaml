@@ -1,0 +1,14 @@
+subclass_name: sdss.SDSSGalaxyCatalog
+
+filename: /global/projecta/projectdirs/lsst/groups/CS/descqa/catalog/SDSS_v3.0.hdf5
+
+lightcone: false
+
+version: "3.0.0"
+
+
+creators: [ 'Andrew Hearin',  'Katrin Heitmann', 'Danila Korytov', 'Eve Kovacs']
+
+description: |
+    SDSS is the baseline catalog for obtaining colors and magnitudes for LSST-DESC DC2.
+
